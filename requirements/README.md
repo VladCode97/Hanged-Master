@@ -1,2 +1,2 @@
 #Modelo del Dominio
-![DomainModel](/images/DomainModel.svg)
+![DomainModel](./images/DomainModel.svg)
