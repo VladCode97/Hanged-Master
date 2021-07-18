@@ -1,9 +1,18 @@
 @startuml
-hanged *--> turn
-turn *--> player
-player --> proposedWord
-hanged *--> boardPaper
-boardPaper *--> secretWord
-boardPaper o--> proposedWord
+Object ":Hanged" as Hanged
+Object ":Turn" as Turn
+Object ":Player" as Player
+Object ":BoardPaper" as BoardPaper
+Object ":SecretWord" as SecretWord
+Object ":ProposedWord" as ProposedWord
+
+
+
+Hanged *--> Turn
+Turn *--> Player
+Player --> ProposedWord
+Hanged *--> BoardPaper
+BoardPaper *--> SecretWord
+BoardPaper o--> ProposedWord
 
 @enduml
