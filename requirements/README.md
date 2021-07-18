@@ -1,9 +1,9 @@
 
 ![headerImage](brainStorming/hangman.jpg)
-#Juego del Ahorcado
+# Juego del Ahorcado
 https://es.wikipedia.org/wiki/Ahorcado_(juego)
 
-###Brain Stroming inicial
+### Brain Stroming inicial
 
 ###### Palabras clave
 ![brainStorming](brainStorming/brainStorming.png)
@@ -30,4 +30,4 @@ https://es.wikipedia.org/wiki/Ahorcado_(juego)
 
 
 
-#GUI v1
+# GUI v1
