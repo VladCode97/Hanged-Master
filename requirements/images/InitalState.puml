@@ -1,0 +1,9 @@
+@startuml
+hanged *--> turn
+turn *--> player
+player --> proposedWord
+hanged *--> boardPaper
+boardPaper *--> secretWord
+boardPaper o--> proposedWord
+
+@enduml
