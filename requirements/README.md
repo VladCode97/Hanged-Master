@@ -10,4 +10,4 @@
 
 
 # GUI v1
-[caso de uso](./brainStorming/casosDeUsoAhorcado.txt)
+[caso de uso](userCase/casosDeUsoAhorcado.txt)
