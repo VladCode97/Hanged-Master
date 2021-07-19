@@ -1,8 +1,8 @@
 # Domain model
 ![diagramModelDomain](./images/DomainModel.svg "Modelo del dominio")
 
-# Model View
-![diagramModelView](./images/ModelViewDesign.svg "Modelo / vista")
+# Domain Model Design
+![diagramDomainModelDesign](images/DomainModelDesign.svg "Modelo / vista")
 
 # MVC (wip)
 ![diagramMVC](./images/MVC.svg)
