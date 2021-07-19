@@ -1,7 +1,8 @@
 hanged
 
 Insert number of players (only numbers): y
-Invalid number, please insert number of players (only numbers): 1
+Invalid number
+Please insert number of players (only numbers): 1
 
 Turn player 1
 +---------------------------+
@@ -18,7 +19,7 @@ Turn player 1
 Secret: __ __ __ __ __ __ 
 
 Insert one character or word (only words): 1
-Invalid character or word, please insert a valid character or word (only words)
+Invalid character or word
 Insert one character or word (only words): a
 Charater not found
 
