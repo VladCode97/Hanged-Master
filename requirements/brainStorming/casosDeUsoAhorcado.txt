@@ -10,7 +10,6 @@
 |			    |
 |			    |
 +---------------------------+
-
 Secret: __ __ __ __ __ __ 
 
 Insert one character (only words): 1
@@ -31,8 +30,6 @@ Charater not found
 |   |                   |   |
 |   +-------------------+   |
 +---------------------------+
-
-
 Secret: __ __ __ __ __ __
 
 Insert one character (only words): i
@@ -50,7 +47,6 @@ Charater not found
 |   |                   |   |
 |   +-------------------+   |
 +---------------------------+
-
 Secret: __ __ __ __ __ __
 
 Insert one character (only words): m
@@ -68,7 +64,6 @@ Character found!
 |   |                   |   |
 |   +-------------------+   |
 +---------------------------+
-
 Secret: __ __ M M __ __
 
 
@@ -87,7 +82,6 @@ Character found!
 |   |                   |   |
 |   +-------------------+   |
 +---------------------------+
-
 Secret: D __ M M __ __
 
 .......
@@ -109,7 +103,6 @@ Character found!
 |   |                   |   |
 |   +-------------------+   |
 +---------------------------+
-
 Secret: D U M M I E
 
 Player win!
@@ -134,7 +127,6 @@ Character not found
 |   |                   |   |
 |   +-------------------+   |
 +---------------------------+
-
 secret: D U M M I __
 
 Secret reveal: DUMMIE
