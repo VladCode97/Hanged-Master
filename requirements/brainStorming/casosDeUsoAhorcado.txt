@@ -18,8 +18,8 @@ Turn player 1
 Secret: __ __ __ __ __ __ 
 
 Insert one character or word (only words): 1
-Invalid character, please insert a valid character (only words)
-Insert one character (only words): a
+Invalid character or word, please insert a valid character or word (only words)
+Insert one character or word (only words): a
 Charater not found
 
 +---------------------------+
@@ -35,7 +35,7 @@ Charater not found
 +---------------------------+
 Secret: __ __ __ __ __ __
 
-Insert one character (only words): i
+Insert one character or word (only words): i
 Charater not found
 
 +---------------------------+
@@ -52,7 +52,7 @@ Charater not found
 +---------------------------+
 Secret: __ __ __ __ __ __
 
-Insert one character (only words): m
+Insert one character or word (only words): m
 Character found!
 
 +---------------------------+
@@ -70,12 +70,12 @@ Character found!
 Secret: __ __ M M __ __
 
 
-Insert one character (only words): D
-Character found!
+Insert one character or word (only words): F
+Character not found!
 
 +---------------------------+
 |			    |
-|     + 		    |
+|     +---------+ 	    |
 |     |			    |
 |     |			    |
 |     |			    |
@@ -85,7 +85,7 @@ Character found!
 |   |                   |   |
 |   +-------------------+   |
 +---------------------------+
-Secret: D __ M M __ __
+Secret: __ __ M M __ __
 
 .......
 .......
