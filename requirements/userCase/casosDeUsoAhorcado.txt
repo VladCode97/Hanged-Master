@@ -109,7 +109,7 @@ Character found!
 +---------------------------+
 Secret: D U M M I E
 
-Player win!
+Player 1 win!
 ¿play again? (y/n):
 
 .......
@@ -133,7 +133,7 @@ Word found!
 +---------------------------+
 Secret: D U M M I E
 
-Player win!
+Player 1 win!
 ¿play again? (y/n):
 
 .......
@@ -158,5 +158,5 @@ Character not found
 secret: D U M M I __
 
 Secret reveal: DUMMIE
-Player lose!
+Player 1 lose!
 ¿play again? (y/n): n
