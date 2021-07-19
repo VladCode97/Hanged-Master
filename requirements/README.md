@@ -10,3 +10,4 @@
 
 
 # GUI v1
+[caso de uso](./brainStorming/casosDeUsoAhorcado.txt)
