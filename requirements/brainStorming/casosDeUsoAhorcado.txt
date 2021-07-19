@@ -91,7 +91,7 @@ Secret: __ __ M M __ __
 .......
 .......
 
-Insert one character (only words): E
+Insert one character or word (only words): E
 Character found!
 
 +---------------------------+
@@ -115,7 +115,7 @@ Player win!
 ..or...
 .......
 
-Insert one character (only words): S
+Insert one character or word (only words): S
 Character not found
 
 +---------------------------+
