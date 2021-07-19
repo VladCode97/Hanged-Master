@@ -21,7 +21,7 @@ Secret: __ __ __ __ __ __
 Insert one character or word (only words): 1
 Invalid character or word
 Insert one character or word (only words): a
-Charater not found
+Character not found
 
 +---------------------------+
 |			    |
@@ -37,7 +37,7 @@ Charater not found
 Secret: __ __ __ __ __ __
 
 Insert one character or word (only words): i
-Charater not found
+Character not found
 
 +---------------------------+
 |			    |
@@ -116,6 +116,30 @@ Player win!
 ..or...
 .......
 
+Insert one character or word (only words): DUMMIE
+Word found!
+
++---------------------------+
+|			    |
+|     +---------+ 	    |
+|     |		|	    |
+|     |		O	    |
+|     |	       /|\	    |
+|     |	       /	    |
+|     |			    |
+|   +-------------------+   |
+|   |                   |   |
+|   +-------------------+   |
++---------------------------+
+Secret: D U M M I E
+
+Player win!
+¿play again? (y/n):
+
+.......
+..or...
+.......
+
 Insert one character or word (only words): S
 Character not found
 
@@ -136,7 +160,3 @@ secret: D U M M I __
 Secret reveal: DUMMIE
 Player lose!
 ¿play again? (y/n): n
-
-
-
-
