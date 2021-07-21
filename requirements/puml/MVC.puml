@@ -16,8 +16,11 @@ class Logic
 enum SesionValue
 abstract class Controller
 class StartController
-class ProposedWordController
-class ProposedCharController
+class ProposedWordController{
+- Word word
+
++ findCharacterInWord(char) : char[]
+}
 class EndController
 
 
@@ -25,11 +28,13 @@ class EndController
 
 
 package "models" {
-abstract class Word
-class ProposedChar
-class ProposedWord
-class SecretWord
-class HangedPart
+class Word{
+- String word
++ getLengthWord() : int
++ getWord() : String
+}
+class HangedPart{
+}
 class Turn
 class Player
 class BoardPaper
@@ -46,9 +51,6 @@ Controller <|-- ProposedCharController
 Controller <|-- EndController
 
 Logic o--> SesionValue
-Word <|-- ProposedChar
-Word <|-- ProposedWord
-Word <|-- SecretWord
 
 
 
