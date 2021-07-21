@@ -32,6 +32,7 @@ class SecretWord
 class HangedPart
 class Turn
 class Player
+class BoardPaper
 }
 Hanged *--> View
 Hanged *--> Logic
